@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **everything that excites me🤣🎉**
 
-- 👯 2021 Goals : I’m looking to collaborate on **open source projects🎉**
+- 👯 2022 Goals : I’m looking to collaborate on **open source projects🎉**
 
 - 🤝 I’m looking for help with **to collaborate with me on projects and contribute to open source projects.**
 
