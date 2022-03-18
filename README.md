@@ -52,6 +52,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theprogrammer565&show_icons=true&locale=en" alt="theprogrammer565" /></p>
 
 <h3 align="left">Daily Dev Profile:</h3>
-<a href="https://app.daily.dev/hemapriya253"><img src="https://api.daily.dev/devcards/380a63ff8ac24edcbb5b6d580682aa2a.png?r=9i5" width="300" alt="Hema Priya V's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/TheProgrammer565/TheProgrammer565/blob/master/devcard.svg" width="400" alt="Hema Priya's Dev Card"/></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theprogrammer565&" alt="theprogrammer565" /></p>
