@@ -9,13 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/hema_priya_v" target="blank"><img src="https://img.shields.io/twitter/follow/hema_priya_v?logo=twitter&style=for-the-badge" alt="hema_priya_v" /></a> </p>
 
-- 🔭 I’m currently pursuing my **Bachelor's Degree in CSE❤️**
+- 👩🏻‍🎓 Graduated from Chennai Institute of Technology in the stream of **Computer Science and Engineering❤️**
 
 - 🌱 I’m currently learning **everything that excites me🤣🎉**
 
-- 👯 2022 Goals : I’m looking to collaborate on **open source projects🎉**
-
-- 🤝 I’m looking for help with **to collaborate with me on projects and contribute to open source projects.**
+- 🤝 I love **to collaborate with projects and contribute to open source projects.**
 
 - 📝 I regularly write articles on [https://hashnode.com/@HemaPriya](https://hashnode.com/@HemaPriya)
 
