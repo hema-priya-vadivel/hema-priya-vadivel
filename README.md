@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hema-priya-vadivel" alt="hema-priya-vadivel" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_programmer0_" target="blank"><img src="https://img.shields.io/twitter/follow/_programmer0_?logo=twitter&style=for-the-badge" alt="_programmer0_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hema_priya_v" target="blank"><img src="https://img.shields.io/twitter/follow/hema_priya_v?logo=twitter&style=for-the-badge" alt="hema_priya_v" /></a> </p>
 
 - 🔭 I’m currently pursuing my **Bachelor's Degree in CSE❤️**
 
