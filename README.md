@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋🏻, I'm Hema Priya😍💙.</h1>
-<h3 align="center">A passionate frontend developer from India.I'm a good Developer,top-grade college student and a responsible daughter.</h3>
+<h3 align="center">A passionate developer from India.I'm a good Developer, top-grade college student and a responsible daughter.</h3>
 
 <img src="quote.jpg"/>
 
@@ -11,15 +11,19 @@
 
 - 👩🏻‍🎓 Graduated from Chennai Institute of Technology in the stream of **Computer Science and Engineering❤️**
 
+- 😍 **Full Stack Developer by Passion**
+
+- 😌 **Quality Analyst by Profession**
+
 - 🌱 I’m currently learning **everything that excites me🤣🎉**
 
 - 🤝 I love **to collaborate with projects and contribute to open source projects.**
 
-- 📝 I regularly write articles on [https://hashnode.com/@HemaPriya](https://hashnode.com/@HemaPriya)
+- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@HemaPriya)
 
-- 💬 Ask me about **front-end development,programming and everything.I will try to find out the solutions to those problems along with you🤩.**
+- 💬 Ask me about **Development, Programming, Testing and everything.Let's debug the solution together 😝**
 
-- 📫 How to reach me **hemapriyav2002@gmail.com**
+- 📫 How to reach me **hemapriyav2002@gmail.com** / [LinkedIn](https://linkedin.com/in/hema-priya-v-74926318b)
 
 - ⚡ Fun fact **I love to draw Mandellas , listen to Music , read books and also love to cook😅**
 
