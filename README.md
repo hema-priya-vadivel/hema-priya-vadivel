@@ -1,58 +1,80 @@
-<h1 align="center">Hi there👋🏻, I'm Hema Priya😍💙.</h1>
-<h3 align="center">A passionate developer from India.I'm a good Developer, top-grade college student and a responsible daughter.</h3>
+<img src="banner.png">
 
-<img src="quote.jpg"/>
+<h1 align="center">Hi there👋🏻, I'm Hema Priya😍💙</h1>
+<h3 align="center">Code, Quality and Innovation — That's What I Do 👩🏻‍💻💡🚀 </h3>
+<h2 align="center">Blending my Development Expertise with a Strong Commitment to Quality !! 💻🔧✅ </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hema-priya-vadivel&label=Profile%20views&color=0e75b6&style=flat" alt="hema-priya-vadivel" /> </p>
+<img src="code.png" align='right' width="500" height="370" alt="Code">
+<img src="https://i.pinimg.com/originals/31/84/fd/3184fddee90fc94780ca6618c52713ca.gif" width="370" height="370" alt="Hi Gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hema-priya-vadivel" alt="hema-priya-vadivel" /></a> </p>
+- 👩🏻‍🎓  Alumnus of Chennai Institute of Technology, with a degree in Computer Science and Engineering (Class of 2023) ❤️<br><br>
+- 😍 Crafting Code while Ensuring Quality - Full Stack Developer by Passion, Quality Engineer by Profession 😌 <br><br>
+- 🌱 Fueled by Curiosity – On a Journey of Learning What Sparks My Interest 🤣🎉<br><br>
+- 🤝 Collaboration is key! I enjoy working on projects and contributing to open-source solutions<br><br>
+- 📝 I regularly share my thoughts and insights through articles on <a target="_blank" href="https://hashnode.com/@HemaPriya" style="display: inline-block;"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675531271955/ALEtNA1cM.png?auto=compress" alt="hashnode" width="110" height="17"/></a> <br><br>
+- 💬 Got a challenge? Ask away! 💬 Whether it’s Development 💻, Programming 🖥️, Testing 🧪 or anything in between—let's debug together! 🛠️😝<br><br>
+- ⚡ When I’m off the clock, you’ll find me drawing intricate Mandalas 🎨, jamming to my playlist 🎶, reading 📚 or cooking something delicious 🍳. Let’s just say I know how to mix creativity with flavor! 😅<br><br>
+- 📬 Reach out to me:<br>
+  - Email: hemapriyav2002@gmail.com<br>
+  - Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hema-priya-v-74926318b)<br><br>
 
-<p align="left"> <a href="https://twitter.com/hema_priya_v" target="blank"><img src="https://img.shields.io/twitter/follow/hema_priya_v?logo=twitter&style=for-the-badge" alt="hema_priya_v" /></a> </p>
+## Profile Visitors Count: 
+![Visitor Count](https://profile-counter.glitch.me/hema-priya-vadivel/count.svg)
+<!-- [![](https://visitcount.itsvg.in/api?id=hema-priya-vadivel&icon=6&color=10)](https://visitcount.itsvg.in) --> 
 
-- 👩🏻‍🎓 Graduated from Chennai Institute of Technology in the stream of **Computer Science and Engineering❤️**
+## 🌐 Socials:
+<a href="hemapriyav2002@gmail.com" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=%23D14836" alt="gmail" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/hema-priya-v-74926318b" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://twitter.com/hema_priya_v" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<a target="_blank" href="https://discord.com/#8560" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg" alt="discord" width="100" height="25" /></a>
 
-- 😍 **Full Stack Developer by Passion**
+## 🧠 Problem-Solving Portfolios:
+<a target="_blank" href="https://www.codechef.com/users/hemapriya253" style="display: inline-block;"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/codechef_button_icon_151902.png" alt="codechef" width="110" height="25" /></a>
+<a target="_blank" href="https://www.hackerrank.com/profile/hema_priya_v" style="display: inline-block;"><img src="https://user-images.githubusercontent.com/1194257/65596422-1cef2080-df97-11e9-9abb-a225204d1805.png" alt="hackerrank" width="110" height="30" /></a>
+<a target="_blank" href="https://www.geeksforgeeks.org/user/hemavidhya682/" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="geeksforgeeks" width="100" height="25" /></a>
+<a target="_blank" href="https://codeforces.com/profile/hema_priya" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" alt="codeforces" width="110" height="15" /></a>
+<a target="_blank" href="https://leetcode.com/u/hemapriya25302" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="leetcode" width="110" height="20" /></a>
+<a target="_blank" href="https://www.hackerearth.com/@hema561/" style="display: inline-block;"><img src="https://media.hackerearth.com/blog/wp-content/uploads/2022/01/he-logo.svg" alt="hackerearth" width="100" height="18" /></a>
+<a target="_blank" href="https://profiles.topcoder.com/hemapriya253" style="display: inline-block;"><img src="https://storage.googleapis.com/chrome-enterprise/img/pages/customers/casestudies/logos/top-coder.svg" alt="topcoder" width="100" height="25" /></a>
 
-- 😌 **Quality Analyst by Profession**
+## 📝 Blogs & 🎨 Design Portfolios:
+<a target="_blank" href="https://stackoverflow.com/users/hema-priya-v" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a>
+<a target="_blank" href="https://dev.to/_programmer0_" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
+<a target="_blank" href="https://www.codepen.io/_programmer0_" style="display: inline-block;"><img src="https://assets.codepen.io/t-1/codepen-logo.svg" alt="codepen" width="60" height="30" /></a>
+<a target="_blank" href="https://www.dribbble.com/hemapriya253" style="display: inline-block;"><img src="https://img.shields.io/badge/dribbble-logo?style=for-the-badge&logo=dribbble&logoColor=white&color=%23ea64d9" alt="dribbble" /></a>
+<a target="_blank" href="https://www.behance.net/hemavidhya" style="display: inline-block;"><img src="https://img.shields.io/badge/behance-logo?style=for-the-badge&logo=behance&logoColor=white&color=%230057ff" alt="behance" /></a>
+<a target="_blank" href="https://medium.com/@hemavidhya682" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
+<a target="_blank" href="https://hashnode.com/@HemaPriya" style="display: inline-block;"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675531271955/ALEtNA1cM.png?auto=compress" alt="hashnode" width="110" height="20"/></a>
 
-- 🌱 I’m currently learning **everything that excites me🤣🎉**
+## <img src="https://media.tenor.com/KdkhCJ65m0sAAAAj/peach-goma-peach-and-goma.gif" width="50" height="35px" alt="Link Laptop Computer"> The Tools Behind My Craft
 
-- 🤝 I love **to collaborate with projects and contribute to open source projects.**
-
-- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@HemaPriya)
-
-- 💬 Ask me about **Development, Programming, Testing and everything.Let's debug the solution together 😝**
-
-- 📫 How to reach me **hemapriyav2002@gmail.com** / [LinkedIn](https://linkedin.com/in/hema-priya-v-74926318b)
-
-- ⚡ Fun fact **I love to draw Mandellas , listen to Music , read books and also love to cook😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/_programmer0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="_programmer0_" height="30" width="40" /></a>
-<a href="https://dev.to/_programmer0_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="_programmer0_" height="30" width="40" /></a>
-<a href="https://twitter.com/_programmer0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_programmer0_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hema-priya-v-74926318b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hema-priya-v-74926318b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hema-priya-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hema-priya-v" height="30" width="40" /></a>
-<a href="https://dribbble.com/hemapriya253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hemapriya253" height="30" width="40" /></a>
-<a href="https://www.behance.net/hemavidhya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hemavidhya" height="30" width="40" /></a>
-<a href="https://medium.com/@hemavidhya682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hemavidhya682" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/hemapriya253" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hemapriya253" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hema_priya_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hema_priya_v" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/hema_priya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="hema_priya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hemapriya25302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hemapriya25302" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@hema561" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@hema561" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/hemapriya253" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="hemapriya253" height="30" width="40" /></a>
-<a href="https://discord.gg/#8560" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8560" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hema-priya-vadivel&show_icons=true&locale=en&layout=compact" alt="hema-priya-vadivel" /></p>
+| **Category**               | **Icons**                                                                                             |
+|----------------------------|------------------------------------------------------------------------------------------------------|
+| **Programming Languages**   | <img src="https://skillicons.dev/icons?i=py" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=java" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=c" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=js" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=ts" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=go" width="42" height="42"/> |
+| **Frontend Development**    | <img src="https://skillicons.dev/icons?i=html" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=css" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=sass" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=tailwindcss" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=bootstrap" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=jquery" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=react" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=angular" width="42" height="42"/> <img src="https://logosandtypes.com/wp-content/uploads/2024/01/angular.svg" width="42" height="42"/> |
+| **Backend Development**     | <img src="https://skillicons.dev/icons?i=nodejs" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=expressjs" width="42" height="42"/> |
+| **Database**                | <img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=mysql" width="42" height="42"/> |
+| **Data Visualization**      | <img src="https://skillicons.dev/icons?i=grafana" width="42" height="42"/> |
+| **DevOps**                  | <img src="https://skillicons.dev/icons?i=googlecloud" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=kubernetes" width="42" height="42"/> |
+| **Frameworks & Libraries**  | <img src="https://skillicons.dev/icons?i=flask" width="42" height="42"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="42" height="42"/> |
+| **Testing**                 | <img src="https://skillicons.dev/icons?i=selenium" width="42" height="42"/> <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="42" height="42"/> |
+| **Platforms, Tools**        | <img src="https://skillicons.dev/icons?i=figma" width="42" height="42"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=postman" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=pycharm" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=vscode" width="42" height="42"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=wordpress" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=windows" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=apple" width="42" height="42"/> |
+| **Version Control**         | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42"/> <img src="https://github.com/rdimascio/icons/blob/master/icons/github.svg" width="42" height="42"/> <img src="https://github.com/rdimascio/icons/blob/master/icons/bitbucket.svg" width="42" height="42"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Jira_Logo.svg" width="42" height="42"/> |
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hema-priya-vadivel&show_icons=true&locale=en" alt="hema-priya-vadivel" /></p>
+# <img src='https://media1.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif?cid=6c09b9520fbeh3st3881aensbfaaw9cvqfnfblovomtx4q8g&ep=v1_gifs_search&rid=giphy.gif&ct=g' width="50" height="40px"> GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hema-priya-vadivel&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hema-priya-vadivel&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hema-priya-vadivel&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hema-priya-vadivel&" alt="hema-priya-vadivel" /></p>
+# <img src='https://i.gifer.com/6x6G.gif' width="50" height="40px"> GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hema-priya-vadivel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+# 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hema-priya-vadivel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+# <img src="https://content.presentermedia.com/files/animsp/00006000/6550/pie_chart_stick_figure_runner_lg_wm.gif" width="70" height="50px"> Code Chronicles & Insights
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hema-priya-vadivel&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hema-priya-vadivel&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gtarafdar&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hema-priya-vadivel&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gtarafdar&theme=algolia&utcOffset=8)  
+
