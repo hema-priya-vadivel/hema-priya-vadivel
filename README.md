@@ -29,8 +29,9 @@
 <a target="_blank" href="https://discord.com/#8560" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg" alt="discord" width="100" height="25" /></a>
 
 ## 🧠 Problem-Solving Portfolios:
-<a target="_blank" href="https://www.codechef.com/users/hemapriya253" style="display: inline-block;"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/codechef_button_icon_151902.png" alt="codechef" width="110" height="25" /></a>
 <a target="_blank" href="https://www.hackerrank.com/profile/hema_priya_v" style="display: inline-block;"><img src="https://user-images.githubusercontent.com/1194257/65596422-1cef2080-df97-11e9-9abb-a225204d1805.png" alt="hackerrank" width="110" height="30" /></a>
+<a target="_blank" href="https://takeuforward.org/profile/hema_priya_v" style="display: inline-block;"><img src="https://static.takeuforward.org/content/tufplus_banner.webp" alt="topcoder" width="100" height="30" /></a>
+<a target="_blank" href="https://www.codechef.com/users/hemapriya253" style="display: inline-block;"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/codechef_button_icon_151902.png" alt="codechef" width="110" height="25" /></a>
 <a target="_blank" href="https://www.geeksforgeeks.org/user/hemavidhya682/" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="geeksforgeeks" width="100" height="25" /></a>
 <a target="_blank" href="https://codeforces.com/profile/hema_priya" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" alt="codeforces" width="110" height="15" /></a>
 <a target="_blank" href="https://leetcode.com/u/hemapriya25302" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="leetcode" width="110" height="20" /></a>
