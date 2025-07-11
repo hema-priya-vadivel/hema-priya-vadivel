@@ -18,9 +18,9 @@
   - Email: hemapriyav2002@gmail.com<br>
   - Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hema-priya-v-74926318b)<br><br>
 
-## Profile Visitors Count: 
-![Visitor Count](https://profile-counter.glitch.me/hema-priya-vadivel/count.svg)
-<!-- [![](https://visitcount.itsvg.in/api?id=hema-priya-vadivel&icon=6&color=10)](https://visitcount.itsvg.in) --> 
+## 👤 Profile Followers / Visitors Count: 
+  <a href="https://github.com/hema-priya-vadivel"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/hema-priya-vadivel?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/hema-priya-vadivel"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=hema-priya-vadivel&label=VIEWS&color=brightgreen&style=for-the-badge" width="100" height="100"></a>
 
 ## 🌐 Socials:
 <a href="hemapriyav2002@gmail.com" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=%23D14836" alt="gmail" /></a>
