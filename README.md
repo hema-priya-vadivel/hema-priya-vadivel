@@ -20,32 +20,33 @@
 
 ## 👤 Profile Followers / Visitors Count: 
   <a href="https://github.com/hema-priya-vadivel"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/hema-priya-vadivel?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/hema-priya-vadivel"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=hema-priya-vadivel&label=VIEWS&color=brightgreen&style=for-the-badge" width="100" height="100"></a>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hema-priya-vadivel&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="hema-priya-vadivel" style="padding-right:20px;" />
+</p>
 
 ## 🌐 Socials:
-<a href="hemapriyav2002@gmail.com" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=%23D14836" alt="gmail" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/hema-priya-v-74926318b" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://twitter.com/hema_priya_v" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://discord.com/#8560" style="display: inline-block;"><img src="https://static.cdnlogo.com/logos/d/33/discord-wordmark.svg" alt="discord" width="100" height="25" /></a>
 
 ## 🧠 Problem-Solving Portfolios:
 <a target="_blank" href="https://www.hackerrank.com/profile/hema_priya_v" style="display: inline-block;"><img src="https://user-images.githubusercontent.com/1194257/65596422-1cef2080-df97-11e9-9abb-a225204d1805.png" alt="hackerrank" width="110" height="30" /></a>
-<a target="_blank" href="https://takeuforward.org/profile/hema_priya_v" style="display: inline-block;"><img src="https://static.takeuforward.org/content/tufplus_banner.webp" alt="topcoder" width="100" height="30" /></a>
-<a target="_blank" href="https://www.codechef.com/users/hemapriya253" style="display: inline-block;"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/codechef_button_icon_151902.png" alt="codechef" width="110" height="25" /></a>
 <a target="_blank" href="https://www.geeksforgeeks.org/user/hemavidhya682/" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="geeksforgeeks" width="100" height="25" /></a>
-<a target="_blank" href="https://codeforces.com/profile/hema_priya" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" alt="codeforces" width="110" height="15" /></a>
 <a target="_blank" href="https://leetcode.com/u/hemapriya25302" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="leetcode" width="110" height="20" /></a>
-<a target="_blank" href="https://www.hackerearth.com/@hema561/" style="display: inline-block;"><img src="https://media.hackerearth.com/blog/wp-content/uploads/2022/01/he-logo.svg" alt="hackerearth" width="100" height="18" /></a>
-<a target="_blank" href="https://profiles.topcoder.com/hemapriya253" style="display: inline-block;"><img src="https://storage.googleapis.com/chrome-enterprise/img/pages/customers/casestudies/logos/top-coder.svg" alt="topcoder" width="100" height="25" /></a>
+<!-- <a target="_blank" href="https://codeforces.com/profile/hema_priya" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" alt="codeforces" width="110" height="15" /></a> -->
+<!-- <a target="_blank" href="https://takeuforward.org/profile/hema_priya_v" style="display: inline-block;"><img src="https://static.takeuforward.org/content/tufplus_banner.webp" alt="topcoder" width="100" height="30" /></a> -->
+<!-- <a target="_blank" href="https://www.codechef.com/users/hemapriya253" style="display: inline-block;"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/codechef_button_icon_151902.png" alt="codechef" width="110" height="25" /></a> -->
+<!-- <a target="_blank" href="https://www.hackerearth.com/@hema561/" style="display: inline-block;"><img src="https://media.hackerearth.com/blog/wp-content/uploads/2022/01/he-logo.svg" alt="hackerearth" width="100" height="18" /></a> -->
+<!-- <a target="_blank" href="https://profiles.topcoder.com/hemapriya253" style="display: inline-block;"><img src="https://storage.googleapis.com/chrome-enterprise/img/pages/customers/casestudies/logos/top-coder.svg" alt="topcoder" width="100" height="25" /></a> -->
 
 ## 📝 Blogs & 🎨 Design Portfolios:
-<a target="_blank" href="https://stackoverflow.com/users/hema-priya-v" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a>
 <a target="_blank" href="https://dev.to/_programmer0_" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
-<a target="_blank" href="https://www.codepen.io/_programmer0_" style="display: inline-block;"><img src="https://assets.codepen.io/t-1/codepen-logo.svg" alt="codepen" width="60" height="30" /></a>
-<a target="_blank" href="https://www.dribbble.com/hemapriya253" style="display: inline-block;"><img src="https://img.shields.io/badge/dribbble-logo?style=for-the-badge&logo=dribbble&logoColor=white&color=%23ea64d9" alt="dribbble" /></a>
-<a target="_blank" href="https://www.behance.net/hemavidhya" style="display: inline-block;"><img src="https://img.shields.io/badge/behance-logo?style=for-the-badge&logo=behance&logoColor=white&color=%230057ff" alt="behance" /></a>
 <a target="_blank" href="https://medium.com/@hemavidhya682" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
 <a target="_blank" href="https://hashnode.com/@HemaPriya" style="display: inline-block;"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675531271955/ALEtNA1cM.png?auto=compress" alt="hashnode" width="110" height="20"/></a>
+<!-- <a target="_blank" href="https://www.codepen.io/_programmer0_" style="display: inline-block;"><img src="https://assets.codepen.io/t-1/codepen-logo.svg" alt="codepen" width="60" height="30" /></a> -->
+<!-- <a target="_blank" href="https://stackoverflow.com/users/hema-priya-v" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a> -->
+<!-- <a target="_blank" href="https://www.dribbble.com/hemapriya253" style="display: inline-block;"><img src="https://img.shields.io/badge/dribbble-logo?style=for-the-badge&logo=dribbble&logoColor=white&color=%23ea64d9" alt="dribbble" /></a>
+<a target="_blank" href="https://www.behance.net/hemavidhya" style="display: inline-block;"><img src="https://img.shields.io/badge/behance-logo?style=for-the-badge&logo=behance&logoColor=white&color=%230057ff" alt="behance" /></a> -->
 
 ## <img src="https://media.tenor.com/KdkhCJ65m0sAAAAj/peach-goma-peach-and-goma.gif" width="50" height="35px" alt="Link Laptop Computer"> The Tools Behind My Craft
 
@@ -64,12 +65,22 @@
 
 
 # <img src='https://media1.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif?cid=6c09b9520fbeh3st3881aensbfaaw9cvqfnfblovomtx4q8g&ep=v1_gifs_search&rid=giphy.gif&ct=g' width="50" height="40px"> GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hema-priya-vadivel&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hema-priya-vadivel&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hema-priya-vadivel&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=hema-priya-vadivel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hema-priya-vadivel&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hema-priya-vadivel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # <img src='https://i.gifer.com/6x6G.gif' width="50" height="40px"> GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hema-priya-vadivel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<p>
+  <a href="https://github.com/hema-priya-vadivel">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=hema-priya-vadivel&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=hema-priya-vadivel&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=hema-priya-vadivel&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<br />
 
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hema-priya-vadivel&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -78,3 +89,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hema-priya-vadivel&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hema-priya-vadivel&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gtarafdar&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hema-priya-vadivel&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gtarafdar&theme=algolia&utcOffset=8)  
+
+# 📈 Contribution Graph
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hema-priya-vadivel&bg_color=050f2c&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
