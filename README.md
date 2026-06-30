@@ -4,7 +4,7 @@
 <h3 align="center">Code, Quality and Innovation — That's What I Do 👩🏻‍💻💡🚀 </h3>
 <h2 align="center">Blending my Development Expertise with a Strong Commitment to Quality !! 💻🔧✅ </h2>
 
-<img src="code.png" align='right' width="400" height="400" alt="Code">
+<img src="code.png" align='right' width="400" height="410" alt="Code">
 <img src="https://i.pinimg.com/originals/31/84/fd/3184fddee90fc94780ca6618c52713ca.gif" width="370" height="370" alt="Hi Gif">
 
 - 👩🏻‍🎓  Alumnus of Chennai Institute of Technology, with a degree in Computer Science and Engineering (Class of 2023) ❤️<br><br>
