@@ -63,11 +63,12 @@
 | **Platforms, Tools**        | <img src="https://skillicons.dev/icons?i=figma" width="42" height="42"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=postman" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=pycharm" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=vscode" width="42" height="42"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=wordpress" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=windows" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=apple" width="42" height="42"/> |
 | **Version Control**         | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42"/> <img src="https://github.com/rdimascio/icons/blob/master/icons/github.svg" width="42" height="42"/> <img src="https://github.com/rdimascio/icons/blob/master/icons/bitbucket.svg" width="42" height="42"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Jira_Logo.svg" width="42" height="42"/> |
 
-
+<!-- 
 # <img src='https://media1.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif?cid=6c09b9520fbeh3st3881aensbfaaw9cvqfnfblovomtx4q8g&ep=v1_gifs_search&rid=giphy.gif&ct=g' width="50" height="40px"> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hema-priya-vadivel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hema-priya-vadivel&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hema-priya-vadivel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+-->
 
 # <img src='https://i.gifer.com/6x6G.gif' width="50" height="40px"> GitHub Trophies
 
@@ -82,8 +83,10 @@
 </p>
 <br />
 
+<!-- 
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hema-priya-vadivel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+-->
 
 # <img src="https://content.presentermedia.com/files/animsp/00006000/6550/pie_chart_stick_figure_runner_lg_wm.gif" width="70" height="50px"> Code Chronicles & Insights
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hema-priya-vadivel&theme=algolia)
